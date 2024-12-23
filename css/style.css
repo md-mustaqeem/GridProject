@@ -1,0 +1,26 @@
+.divcontainer{
+}
+header{
+      height: 120px;
+      background-color: purple;
+      color: white;
+      margin-top: 10px;
+}
+.mainbody{
+      height: 580px;
+}
+footer{
+      height: 100px;
+}
+footer > p{
+      text-align: center;
+      padding-top: 40px;
+}
+.asideleft{
+}
+.asideright{
+      margin-top: 25px;
+      margin-bottom: 25px
+}
+.mainsection{
+}
